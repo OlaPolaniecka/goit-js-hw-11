@@ -17,7 +17,7 @@ body {
 }
 
 input {
-  width: 250px;
+  width: 240px;
   height: 25px;
 }
 
@@ -58,7 +58,7 @@ form button {
   margin: 20px auto;
   padding: 10px 20px;
   font-size: 25px;
-  border: 3px dashed palevioletred;
+  border: 3px dashed rgb(167, 81, 110);
   border-radius: 10px;
   cursor: pointer;
 }
